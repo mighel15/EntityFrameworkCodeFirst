@@ -2444,11 +2444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\VS\\ClienteAPI\\ClienteAPI\\ClienteAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\ToyProjects\\EntityFrameworkCodeFirst\\ClienteAPI\\ClienteAPI.csproj",
       "projectName": "ClienteAPI",
-      "projectPath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\VS\\ClienteAPI\\ClienteAPI\\ClienteAPI.csproj",
+      "projectPath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\ToyProjects\\EntityFrameworkCodeFirst\\ClienteAPI\\ClienteAPI.csproj",
       "packagesPath": "C:\\Users\\Miguel Aceituno Rojo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\VS\\ClienteAPI\\ClienteAPI\\obj\\",
+      "outputPath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\ToyProjects\\EntityFrameworkCodeFirst\\ClienteAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

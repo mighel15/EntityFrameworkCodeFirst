@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1tzeTdJL3DOn33q8F6xuW5U6e9uoDsp5Cd1dyH4owr78f8FblyzpwILfVJlMw7sX8OUK5PqKBvWTtydXe+rjug==",
+  "dgSpecHash": "k6G8u6U+R/qC0Gms8x1DydvtN8eg8YyU29x0GW5LMVnGLZ2DoDUk8WKJqAqJaty+sJ2nVFpNmJkUICpZxbxAgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\VS\\ClienteAPI\\ClienteAPI\\ClienteAPI.csproj",
+  "projectFilePath": "C:\\Users\\Miguel Aceituno Rojo\\Documents\\ToyProjects\\EntityFrameworkCodeFirst\\ClienteAPI\\ClienteAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miguel Aceituno Rojo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Miguel Aceituno Rojo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
